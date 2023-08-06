@@ -1,0 +1,19 @@
+.register{
+    border: solid black;
+    height: 500px;
+    width:500px;
+}
+body{
+    background-color: aquamarine;
+    margin: 20px;
+    text-align: center;
+    
+}
+.a{
+    padding-right: 250px;
+}
+
+
+
+
+
